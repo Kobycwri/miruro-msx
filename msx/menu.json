@@ -1,0 +1,15 @@
+{
+  "headline": "Miruro",
+  "menu": [
+    {
+      "label": "Open Miruro",
+      "icon": "web",
+      "action": "link:https://miruro.tv"
+    },
+    {
+      "label": "Open Miruro (External Browser)",
+      "icon": "web",
+      "action": "link:window:https://miruro.tv"
+    }
+  ]
+}
