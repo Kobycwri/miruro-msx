@@ -1,6 +1,6 @@
 {
   "name": "Miruro Portal",
   "version": "1.0.0",
-  "parameter": "menu:https://Kobycwri.github.io/miruro-msx/menu.json",
+  "parameter": "menu:https://kobycwri.github.io/miruro-msx/menu.json",
   "welcome": "none"
 }
