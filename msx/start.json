@@ -1,0 +1,6 @@
+{
+  "name": "Miruro Portal",
+  "version": "1.0.0",
+  "parameter": "menu:https://YOUR-USERNAME.github.io/msx/menu.json",
+  "welcome": "none"
+}
